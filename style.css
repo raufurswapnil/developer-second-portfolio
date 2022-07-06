@@ -12,19 +12,26 @@ p {
 }
 
 .button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    color: brown;
     background-color: chartreuse;
-    color: green;
-    display: flex;
-
-
 
 
 }
 
 
-body {
+
+
+
+
+
+.container {
     background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: 75%;
+    padding-bottom: 50%;
 }
