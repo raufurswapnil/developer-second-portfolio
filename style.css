@@ -1,13 +1,11 @@
-body {
-    ont-family: 'Heebo', sans-serif;
-    font-family: 'Poppins', sans-serif;
+h1 {
+    font-size: 50px;
+    height: 50px;
+    color: black;
+    text-align: center;
+    display:
 }
 
-.background-image {
-    background-image: url(images/donation10.jpg);
-    background-repeat: no-repeat;
-    height: 500px;
-    background-position: center;
-    background-size: 70%;
-
+p {
+    text-align: center;
 }
