@@ -5,10 +5,13 @@ h1 {
     text-align: center;
 }
 
-p {
+.moga {
     text-align: center;
-    color: yellow;
+    color: white;
     font-size: medium;
+    margin-left: 50px;
+    margin-right: 30px;
+
 }
 
 .button {
@@ -22,7 +25,26 @@ p {
 
 }
 
+.donate {
+    color: black;
+}
 
+.sylhet {
+    color: black;
+}
+
+.donation2 {
+    display: flex;
+
+
+
+
+
+}
+
+.colorr {
+    color: rgb(0, 60, 255);
+}
 
 
 
@@ -34,4 +56,89 @@ p {
     background-position-x: center;
     background-size: 75%;
     padding-bottom: 50%;
+}
+
+h1 {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.food {
+    text-align: start;
+}
+
+.family {
+    display: flex;
+    padding: 100px;
+    margin: 100px;
+    height: 50px;
+}
+
+.box {
+    width: 33%;
+}
+
+.mogaaa {
+    display: flex;
+
+
+}
+
+.rong {
+    background-color: rgb(0, 255, 64);
+    margin: 20px;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    padding: 14px;
+
+}
+
+.rong2 {
+    font-style: italic;
+    width: 50%;
+    text-justify: newspaper;
+
+}
+
+.last {
+    font-size: x-large;
+
+}
+
+.hunu {
+    display: flex;
+    width: 50%;
+}
+
+.last img {
+    width: 90%;
+
+}
+
+.pen {
+    display: flex;
+
+
+}
+
+
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.ddd {
+    display: flex;
+
+}
+
+.gmail {
+    text-align: center;
 }
